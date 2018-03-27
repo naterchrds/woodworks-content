@@ -1,0 +1,110 @@
+2018-03-26T20:55:12+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T20:55:12+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:07:31+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:07:31+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:07:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:07:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:09:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:09:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:11:18+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:12:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
+2018-03-26T21:12:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-functions.php:1118
+Stack trace:
+#0 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/includes/msp-template-tags.php(281): msp_get_template_tag_value('wc_price', Object(WP_Post), Array)
+#1 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-wp-post.php(162): get_post_template_tags_value(Object(WP_Post), Array)
+#2 /srv/www/woodworks/htdocs/wp-content/plugins/masterslider/admin/includes/classes/class-msp-admin-ajax.php(52): MSP_WP_Post->get_first_post_template_tags_value()
+#3 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(286): MSP_Admin_Ajax->post_slider_preview('')
+#4 /srv/www/woodworks/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /srv/www/woodworks/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /srv/www/woodworks/htdocs/wp-admin/admin-ajax.php(97): do_action('wp_aja
+
